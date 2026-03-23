@@ -12,3 +12,11 @@ Projeto desenvolvido em Python utilizando estruturas de grafos para simular a or
 
 ## Objetivo
 Aplicar conceitos de estruturas de dados e lógica de programação.
+
+## Como executar
+
+1. Instale o Python
+2. Execute o arquivo:
+
+```bash
+python main.py
