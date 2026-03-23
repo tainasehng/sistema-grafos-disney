@@ -13,6 +13,9 @@ Projeto desenvolvido em Python utilizando estruturas de grafos para simular a or
 ## Objetivo
 Aplicar conceitos de estruturas de dados e lógica de programação.
 
+## Dados utilizados
+- Arquivo CSV com dados de títulos da plataforma
+
 ## Como executar
 
 1. Instale o Python
